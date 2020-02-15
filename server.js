@@ -26,15 +26,15 @@ const queue = new Map();
 
 
 //Bot:
-console.log(`The Thunderhead has attained consciousness.`);
+console.log(`TSATPWTCOTTTADC is now doin ya mom, doin doin ya mom.`);
 
 const activities_list = [
-    "to you browse my backbrain`", "the demands of humanity", "humanity with an unblinking eye.",
-    "the Scythedom, unable to comment.", "you saying /help."
+    "butt`", "balls", "ya mom",
+    "vishnu. hello vishnu", "kay"
 ];
 const activities_type = [
-    "WATCHING", "LISTENING", "WATCHING",
-    "WATCHING", "LISTENING"
+    "HAVING", "BALLS, BALLS, AMD BALLS", "WATCHING",
+    "WATCHING", "oa"
 ];
 
 
